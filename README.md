@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronroeandassociates&layout=compact)](https://github.com/ronroeandassociates/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,vscode,vim,emacs,powershell,py,nodejs,nginx,sass,tailwind,mysql,linux,linkedin,twitter,stackoverflow,openstack,js,jquery,java,github,fortran,figma,redis,ai,react,bootstrap&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,vscode,vim,emacs,powershell,py,nodejs,nginx,sass,tailwind,mysql,linux,linkedin,twitter,stackoverflow,openstack,js,jquery,java,github,fortran,figma,redis,ai,react,mongodb,graphql,bootstrap&perline=10)](https://skillicons.dev)
